@@ -1,4 +1,6 @@
 This is a testfile for the clone purpose
 Will see how it goes
 
-File is being edit in 1st branch
+File is being edit in 1st branch and latter I will pull first 
+-Then Ill check if I have any merge conflict or not
+-If there is no merge conflict push to master
